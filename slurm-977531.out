@@ -1,0 +1,8 @@
+Starting job 977531 on c1-28 on fox at Thu Nov 14 11:00:35 CET 2024
+
+Submission directory:  /fp/homes01/u01/ec-laurar/BIOS_IN5410/scripts
+Counting lines in  /fp/homes01/u01/ec-laurar/BIOS_IN5410/sbatch_intro/arguments/96seqs.fasta
+/var/spool/slurmd/job977531/slurm_script: line 30: /fp/homes01/u01/ec-laurar/BIOS_IN5410/scripts/result/wc_/fp/homes01/u01/ec-laurar/BIOS_IN5410/sbatch_intro/arguments/96seqs.fasta.out: No such file or directory
+
+
+Job 977531 completed at Thu Nov 14 11:00:35 CET 2024
